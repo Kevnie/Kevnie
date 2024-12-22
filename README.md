@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hej! 👋, I'm Kevin
+
+I'm a PhD student at the Department of Ecology and Genetics, Uppsala University, and a member of the Rosling lab whose research focus is molecular ecology and evolution of soil fungi. I'm currently researching the morphology and genomics of 'hidden' fungal diversity. Specifically, I'm endeavouring to describe the great diversity of Archaeorhizomycetes in absence of cultured type material using confocal microscopy and single-cell methods.
 
 <!--
 **Kevnie/Kevnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
