@@ -1,4 +1,4 @@
-## Hej! 👋, I'm Kevin
+## Hej! 👋 I'm Kevin
 
 - PhD student at the Department of Ecology and Genetics, Uppsala University.
 - Member of the Rosling lab where our research focus is molecular ecology and evolution of soil fungi.
