@@ -2,7 +2,7 @@
 
 - PhD student at the Department of Ecology and Genetics, Uppsala University.
 - Member of the Rosling lab where our research focus is molecular ecology and evolution of soil fungi.
-- Currently researching the morphology and genomics of 'hidden' fungal diversity. Specifically, describing the great diversity of Archaeorhizomycetes in absence of cultured type material using confocal microscopy and single-cell methods.
+- Currently researching the morphology and genomics of 'hidden' fungal diversity. Specifically attempting to describe the great diversity of Archaeorhizomycetes in absence of cultured type material using confocal microscopy and single-cell methods.
 
 <!--
 **Kevnie/Kevnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
